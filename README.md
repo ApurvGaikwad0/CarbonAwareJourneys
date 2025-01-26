@@ -48,9 +48,9 @@ Presentation Tools: Microsoft PowerPoint
 ## Project Workflow
 
 Data Preparation:
-   Cleaning and pre-processing raw data for analysis.
-   Merging datasets to form a cohesive view of travel patterns.
-   Exploratory Data Analysis (EDA):
+Cleaning and pre-processing raw data for analysis.
+Merging datasets to form a cohesive view of travel patterns.
+Exploratory Data Analysis (EDA):
 
 Visualizing trends in congestion, emissions, and costs.
    Analyzing eco-consciousness patterns among travelers.
